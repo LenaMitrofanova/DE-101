@@ -4,7 +4,7 @@
 
 
 
-##Установка GIT и GitHub
+## Установка GIT и GitHub
 1. Для получения базовых знаний при работе в командной строке - курс [Introduction to Shell](https://app.datacamp.com/learn/courses/introduction-to-shell) в DataCamp.
 1. Для основ работы в гите помог [Introduction to Version Control with Git](https://app.datacamp.com/learn/courses/introduction-to-version-control-with-git).
 1. На мой взгляд, самое удачное видео на YouTube для новичков [GIT - Полный Курс Git и GitHub Для Начинающих [4 ЧАСА]](https://www.youtube.com/watch?v=O00FTZDxD0o)
@@ -17,5 +17,6 @@
   
   Имеются два вида потребителей информации: **бизнесс-менеджеры** , принимающие финансовые решения,  и **инженеры**, анализирующие параметры оборудования и принимающие решения по изменению режима энергосети. 
 
-! [Аналитическое решение](C:\Users\User\Desktop\DE-101\module1\Аналитическое решение сети.jpg)
+![Аналитическое решение](https://github.com/LenaMitrofanova/DE-101/blob/main/module1/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8.jpg)
+
 
